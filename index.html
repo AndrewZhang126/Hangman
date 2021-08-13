@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="java.js"></script>
+    <link rel="stylesheet" type="text/css" href="css.css">
+</head>
+<body>
+<div id = "timer" align = right></div>
+<p class = "heading" >HANGMAN GAME</p>
+<p class = "paragraph" >Click Start Game To Begin</p>
+</body>
+<div>
+    <img id = "pic" src = "/HangmanProject/HangmanImages/Hangman0.jpg" height="280" width = "280">
+</div>
+<div>
+    <input class = "button" type="button" onclick="start()" value="Start Game">
+</div>
+<p class = "p" id = "word"></p>
+<p class = "p1" id = "spaces"></p>
+<p class = "p2" id = "category"></p>
+<p class = "p8" id = "type"></p>
+<p class = "p3" id = "ul"></p>
+<p class = "p4" id = "count"></p>
+<p class = "p5" id = "game"></p>
+<p class = "p6" id = "restart"></p>
+<p class = "p7" id = "win/loss"></p>
+<input id = "winloss" class = "button2" type="button" onclick="winloss()" value="Click to Show Games Won and Lost" style="visibility: hidden">
+<br>
+<br>
+<input class = "button3" type="button" onclick="reset()" value="Reset">
+</html>

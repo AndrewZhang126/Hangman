@@ -1,0 +1,80 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    font-family: "Verdana", serif;
+    font-weight: bold;
+}
+
+.button{
+    background-color: lightskyblue;
+    border-radius: 8px;
+    font-size: 25px;
+}
+
+.button2{
+    background-color: powderblue;
+    border-radius: 8px;
+    font-size: 15px;
+
+}
+
+.button3{
+    background-color: lightgrey;
+    border-radius: 8px;
+    font-size: 15px;
+
+}
+
+.heading{
+    font-size: 350%;
+    color: royalblue;
+}
+
+.paragraph{
+    font-size: 120%;
+    color: royalblue;
+}
+
+.p{
+    font-size: 105%;
+    color: cornflowerblue;
+}
+
+.p1{
+    font-size: 105%;
+    color: cornflowerblue;
+}
+
+.p2{
+    font-size: 105%;
+    color: cornflowerblue;
+}
+
+.p3{
+    font-size: 105%;
+    color: cornflowerblue;
+}
+
+.p4{
+    font-size: 105%;
+    color: cornflowerblue;
+}
+
+.p5{
+    font-size: 105%;
+    color: red;
+}
+
+.p6{
+    font-size: 105%;
+    color: darkslategrey;
+}
+
+.p7{
+    font-size: 105%;
+}
+
+.p8{
+    font-size: 105%;
+    color: steelblue;
+}
